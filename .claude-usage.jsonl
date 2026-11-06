@@ -1,0 +1,10 @@
+{"type":"call","ts":1793895112,"task":"approve-kotlin","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1793898312,"task":"heal-build","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1793899270,"task":"heal-build","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1793900382,"task":"diagnose","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1793902212,"task":"diagnose","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1793914364,"task":"diagnose","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1793916278,"task":"diagnose","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1793918198,"task":"diagnose","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1793932244,"task":"gen-design-doc","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1793932771,"task":"approve-kotlin","model":"opus","model_id":"claude-opus-5"}
